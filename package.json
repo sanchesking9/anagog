@@ -1,0 +1,31 @@
+{
+  "name": "anagog",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "ddc": "node ./bin/decoupledDataCollector.js",
+    "test": "NODE_ENV=test jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "config": "^3.0.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "node-rdkafka": "^2.6.1",
+    "node-sass-middleware": "0.11.0",
+    "pug": "2.0.0-beta11",
+    "uuid": "^3.3.2",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.5.0",
+    "jest-mock-random": "^1.0.2",
+    "rewire": "^4.0.1",
+    "supertest": "^4.0.2"
+  }
+}

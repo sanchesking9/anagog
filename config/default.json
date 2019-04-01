@@ -1,0 +1,14 @@
+{
+  "kafka": {
+    "host": "localhost:29092"
+  },
+  "client": {
+    "usersCount": 1,
+    "initDate": "2018-01-01"
+  },
+  "ddc": {
+    "messageCount": 100,
+    "interval":  120000,
+    "partition": 100
+  }
+}

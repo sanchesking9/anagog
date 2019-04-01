@@ -1,0 +1,18 @@
+extends ../layout
+
+block content
+    div.container
+        h1= title
+        div.clients
+            each client in clients
+                div.client
+                    each dayReport in client
+                        div.item
+                            div.item__info
+                                div.item__info-date= new Date(dayReport.visit[0].EnterTime).toUTCString()
+                                div.item__info-count
+                                    span!= 'Visits(' + dayReport.visit.length + ')'
+                                    span!= 'Activities(' + dayReport.activity.length + ')'
+                            div.item__body
+                                //div.item__visit= JSON.stringify(dayReport.visit, '', 4)
+                                //div.item__activity= JSON.stringify(dayReport.activity, '', 4)

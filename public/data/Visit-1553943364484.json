@@ -1,0 +1,2442 @@
+[
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521676800000,
+      "ExitTime": 1521679200000,
+      "AlgorithmType": 3,
+      "PoiId": 6163035747037467,
+      "Latitude": 18.636121,
+      "Longitude": -93.590331
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521684000000,
+      "ExitTime": 1521686400000,
+      "AlgorithmType": 7,
+      "PoiId": 4255687432243258,
+      "Latitude": 66.615721,
+      "Longitude": 50.109941
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521691200000,
+      "ExitTime": 1521693600000,
+      "AlgorithmType": 4,
+      "PoiId": 3267639950029882,
+      "Latitude": -2.74914,
+      "Longitude": -138.151102
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521698400000,
+      "ExitTime": 1521700800000,
+      "AlgorithmType": 4,
+      "PoiId": 3337073433350104,
+      "Latitude": -49.896611,
+      "Longitude": -76.736217
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521705600000,
+      "ExitTime": 1521708000000,
+      "AlgorithmType": 7,
+      "PoiId": 7956203501250507,
+      "Latitude": 45.789073,
+      "Longitude": 45.585871
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521712800000,
+      "ExitTime": 1521715200000,
+      "AlgorithmType": 5,
+      "PoiId": 722802711964780,
+      "Latitude": -1.207869,
+      "Longitude": -122.654489
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521720000000,
+      "ExitTime": 1521722400000,
+      "AlgorithmType": 5,
+      "PoiId": 938908218608726,
+      "Latitude": -41.427198,
+      "Longitude": 144.144132
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521727200000,
+      "ExitTime": 1521729600000,
+      "AlgorithmType": 4,
+      "PoiId": 8761505306118003,
+      "Latitude": -41.898694,
+      "Longitude": -39.880544
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521734400000,
+      "ExitTime": 1521736800000,
+      "AlgorithmType": 3,
+      "PoiId": 4029397925780748,
+      "Latitude": -60.373051,
+      "Longitude": -163.915097
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521741600000,
+      "ExitTime": 1521744000000,
+      "AlgorithmType": 7,
+      "PoiId": 4973575635611027,
+      "Latitude": -83.982677,
+      "Longitude": 118.884374
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521748800000,
+      "ExitTime": 1521751200000,
+      "AlgorithmType": 1,
+      "PoiId": 1397052907751790,
+      "Latitude": -81.291664,
+      "Longitude": 32.686701
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521756000000,
+      "ExitTime": 1521758400000,
+      "AlgorithmType": 4,
+      "PoiId": 4440587778550508,
+      "Latitude": -10.449896,
+      "Longitude": -54.461046
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521763200000,
+      "ExitTime": 1521765600000,
+      "AlgorithmType": 6,
+      "PoiId": 6809157835476795,
+      "Latitude": 44.884517,
+      "Longitude": -84.462581
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521770400000,
+      "ExitTime": 1521772800000,
+      "AlgorithmType": 3,
+      "PoiId": 4393444373092062,
+      "Latitude": 8.258062,
+      "Longitude": 102.666775
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521777600000,
+      "ExitTime": 1521780000000,
+      "AlgorithmType": 7,
+      "PoiId": 8541243977366801,
+      "Latitude": 31.836754,
+      "Longitude": -132.667866
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521784800000,
+      "ExitTime": 1521787200000,
+      "AlgorithmType": 2,
+      "PoiId": 6498564672738965,
+      "Latitude": 84.591231,
+      "Longitude": 65.011835
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521792000000,
+      "ExitTime": 1521794400000,
+      "AlgorithmType": 6,
+      "PoiId": 2616651838877210,
+      "Latitude": -61.496073,
+      "Longitude": 174.429862
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521799200000,
+      "ExitTime": 1521801600000,
+      "AlgorithmType": 1,
+      "PoiId": 3251144680151238,
+      "Latitude": -63.507942,
+      "Longitude": -148.803451
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521806400000,
+      "ExitTime": 1521808800000,
+      "AlgorithmType": 2,
+      "PoiId": 4178950508278266,
+      "Latitude": -3.480567,
+      "Longitude": -177.690252
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521813600000,
+      "ExitTime": 1521816000000,
+      "AlgorithmType": 5,
+      "PoiId": 7134692274767375,
+      "Latitude": -46.240416,
+      "Longitude": -38.321512
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521820800000,
+      "ExitTime": 1521823200000,
+      "AlgorithmType": 4,
+      "PoiId": 8279902506562743,
+      "Latitude": 32.257567,
+      "Longitude": 154.894274
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521828000000,
+      "ExitTime": 1521830400000,
+      "AlgorithmType": 1,
+      "PoiId": 3062843356475278,
+      "Latitude": -41.201971,
+      "Longitude": -30.090025
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521835200000,
+      "ExitTime": 1521837600000,
+      "AlgorithmType": 3,
+      "PoiId": 890723474022348,
+      "Latitude": -42.784936,
+      "Longitude": -109.693979
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521842400000,
+      "ExitTime": 1521844800000,
+      "AlgorithmType": 3,
+      "PoiId": 6875562138501285,
+      "Latitude": -29.120773,
+      "Longitude": 67.41439
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521849600000,
+      "ExitTime": 1521852000000,
+      "AlgorithmType": 2,
+      "PoiId": 1773077316334516,
+      "Latitude": -27.435452,
+      "Longitude": -118.016901
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521856800000,
+      "ExitTime": 1521859200000,
+      "AlgorithmType": 6,
+      "PoiId": 2218318060140676,
+      "Latitude": 30.398038,
+      "Longitude": -131.461063
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521864000000,
+      "ExitTime": 1521866400000,
+      "AlgorithmType": 2,
+      "PoiId": 2688258223228566,
+      "Latitude": 64.8018,
+      "Longitude": 179.805248
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521871200000,
+      "ExitTime": 1521873600000,
+      "AlgorithmType": 4,
+      "PoiId": 1406510625589846,
+      "Latitude": 13.965016,
+      "Longitude": -132.540856
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521878400000,
+      "ExitTime": 1521880800000,
+      "AlgorithmType": 2,
+      "PoiId": 7864888114929521,
+      "Latitude": -54.003415,
+      "Longitude": -75.181845
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521885600000,
+      "ExitTime": 1521888000000,
+      "AlgorithmType": 5,
+      "PoiId": 2802597704858760,
+      "Latitude": -27.067153,
+      "Longitude": -66.354448
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521892800000,
+      "ExitTime": 1521895200000,
+      "AlgorithmType": 6,
+      "PoiId": 3279690683998286,
+      "Latitude": 20.842973,
+      "Longitude": 70.129403
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521900000000,
+      "ExitTime": 1521902400000,
+      "AlgorithmType": 6,
+      "PoiId": 7978864678349717,
+      "Latitude": 30.950184,
+      "Longitude": -84.54261
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521907200000,
+      "ExitTime": 1521909600000,
+      "AlgorithmType": 1,
+      "PoiId": 4612730190478601,
+      "Latitude": -10.238486,
+      "Longitude": 97.923214
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521914400000,
+      "ExitTime": 1521916800000,
+      "AlgorithmType": 7,
+      "PoiId": 6900791061843057,
+      "Latitude": -76.16265,
+      "Longitude": -67.087111
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521921600000,
+      "ExitTime": 1521924000000,
+      "AlgorithmType": 4,
+      "PoiId": 8252146585685029,
+      "Latitude": -21.566979,
+      "Longitude": 174.885242
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521928800000,
+      "ExitTime": 1521931200000,
+      "AlgorithmType": 7,
+      "PoiId": 8895624283335779,
+      "Latitude": -17.206722,
+      "Longitude": -160.644824
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521936000000,
+      "ExitTime": 1521938400000,
+      "AlgorithmType": 6,
+      "PoiId": 4802612463943427,
+      "Latitude": 74.782088,
+      "Longitude": 74.954816
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521943200000,
+      "ExitTime": 1521945600000,
+      "AlgorithmType": 6,
+      "PoiId": 2673302684005658,
+      "Latitude": 31.482628,
+      "Longitude": 61.90382
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521950400000,
+      "ExitTime": 1521952800000,
+      "AlgorithmType": 3,
+      "PoiId": 5555727348203629,
+      "Latitude": 14.494934,
+      "Longitude": 128.692061
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521957600000,
+      "ExitTime": 1521960000000,
+      "AlgorithmType": 2,
+      "PoiId": 6599699948909477,
+      "Latitude": -1.218346,
+      "Longitude": -66.106476
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521964800000,
+      "ExitTime": 1521967200000,
+      "AlgorithmType": 3,
+      "PoiId": 262207831899156,
+      "Latitude": -44.081298,
+      "Longitude": -57.470754
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521972000000,
+      "ExitTime": 1521974400000,
+      "AlgorithmType": 7,
+      "PoiId": 6750879621488903,
+      "Latitude": 54.034022,
+      "Longitude": -124.426001
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521979200000,
+      "ExitTime": 1521981600000,
+      "AlgorithmType": 6,
+      "PoiId": 5516809342270945,
+      "Latitude": -42.690887,
+      "Longitude": -121.225569
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521986400000,
+      "ExitTime": 1521988800000,
+      "AlgorithmType": 4,
+      "PoiId": 5213430517482905,
+      "Latitude": -8.348436,
+      "Longitude": 173.928375
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1521993600000,
+      "ExitTime": 1521996000000,
+      "AlgorithmType": 3,
+      "PoiId": 5623725612607377,
+      "Latitude": -59.28686,
+      "Longitude": 43.287382
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522000800000,
+      "ExitTime": 1522003200000,
+      "AlgorithmType": 2,
+      "PoiId": 4848413306190869,
+      "Latitude": 12.730439,
+      "Longitude": -159.795335
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522008000000,
+      "ExitTime": 1522010400000,
+      "AlgorithmType": 7,
+      "PoiId": 4466425883041934,
+      "Latitude": -33.558957,
+      "Longitude": 55.345088
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522015200000,
+      "ExitTime": 1522017600000,
+      "AlgorithmType": 2,
+      "PoiId": 817994430971352,
+      "Latitude": 62.074584,
+      "Longitude": 130.486983
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522022400000,
+      "ExitTime": 1522024800000,
+      "AlgorithmType": 7,
+      "PoiId": 7664440874266063,
+      "Latitude": 54.183221,
+      "Longitude": -24.243542
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522029600000,
+      "ExitTime": 1522032000000,
+      "AlgorithmType": 1,
+      "PoiId": 2425607049123226,
+      "Latitude": -12.320034,
+      "Longitude": -94.423195
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522036800000,
+      "ExitTime": 1522039200000,
+      "AlgorithmType": 3,
+      "PoiId": 4146016433604130,
+      "Latitude": 6.730725,
+      "Longitude": -108.792334
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522044000000,
+      "ExitTime": 1522046400000,
+      "AlgorithmType": 4,
+      "PoiId": 4803876745697185,
+      "Latitude": 8.996933,
+      "Longitude": -102.912254
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522051200000,
+      "ExitTime": 1522053600000,
+      "AlgorithmType": 2,
+      "PoiId": 1473726136875346,
+      "Latitude": -26.703529,
+      "Longitude": 60.816685
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522058400000,
+      "ExitTime": 1522060800000,
+      "AlgorithmType": 1,
+      "PoiId": 6710687463535451,
+      "Latitude": 66.927947,
+      "Longitude": 147.804747
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522065600000,
+      "ExitTime": 1522068000000,
+      "AlgorithmType": 7,
+      "PoiId": 2392692113257628,
+      "Latitude": -8.89167,
+      "Longitude": -119.942722
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522072800000,
+      "ExitTime": 1522075200000,
+      "AlgorithmType": 6,
+      "PoiId": 5723563147921187,
+      "Latitude": 46.984378,
+      "Longitude": -179.106305
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522080000000,
+      "ExitTime": 1522082400000,
+      "AlgorithmType": 3,
+      "PoiId": 3718886290920594,
+      "Latitude": -31.956198,
+      "Longitude": 83.963127
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522087200000,
+      "ExitTime": 1522089600000,
+      "AlgorithmType": 4,
+      "PoiId": 527215329276750,
+      "Latitude": 49.346847,
+      "Longitude": 148.619326
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522094400000,
+      "ExitTime": 1522096800000,
+      "AlgorithmType": 4,
+      "PoiId": 8265211569226481,
+      "Latitude": 45.925765,
+      "Longitude": -129.299526
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522101600000,
+      "ExitTime": 1522104000000,
+      "AlgorithmType": 5,
+      "PoiId": 5700740332121691,
+      "Latitude": -1.616993,
+      "Longitude": -3.953131
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522108800000,
+      "ExitTime": 1522111200000,
+      "AlgorithmType": 6,
+      "PoiId": 6790835923211291,
+      "Latitude": 70.170665,
+      "Longitude": -102.692731
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522116000000,
+      "ExitTime": 1522118400000,
+      "AlgorithmType": 3,
+      "PoiId": 6863344123615403,
+      "Latitude": -77.469372,
+      "Longitude": -2.585019
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522123200000,
+      "ExitTime": 1522125600000,
+      "AlgorithmType": 6,
+      "PoiId": 1530868244196220,
+      "Latitude": 1.973078,
+      "Longitude": 80.3939
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522130400000,
+      "ExitTime": 1522132800000,
+      "AlgorithmType": 1,
+      "PoiId": 4409293075917428,
+      "Latitude": -24.487516,
+      "Longitude": 149.79163
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522137600000,
+      "ExitTime": 1522140000000,
+      "AlgorithmType": 6,
+      "PoiId": 5005752985257025,
+      "Latitude": 22.434964,
+      "Longitude": 171.713727
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522144800000,
+      "ExitTime": 1522147200000,
+      "AlgorithmType": 5,
+      "PoiId": 4568946730833947,
+      "Latitude": -5.783929,
+      "Longitude": -29.29056
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522152000000,
+      "ExitTime": 1522154400000,
+      "AlgorithmType": 2,
+      "PoiId": 4676963220161381,
+      "Latitude": 74.121461,
+      "Longitude": -78.275351
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522159200000,
+      "ExitTime": 1522161600000,
+      "AlgorithmType": 4,
+      "PoiId": 352849971261688,
+      "Latitude": 48.796222,
+      "Longitude": -64.911887
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522166400000,
+      "ExitTime": 1522168800000,
+      "AlgorithmType": 2,
+      "PoiId": 4267548154400802,
+      "Latitude": 0.335488,
+      "Longitude": -94.04006
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522173600000,
+      "ExitTime": 1522176000000,
+      "AlgorithmType": 6,
+      "PoiId": 8722343774855237,
+      "Latitude": -20.677821,
+      "Longitude": -53.393981
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522180800000,
+      "ExitTime": 1522183200000,
+      "AlgorithmType": 3,
+      "PoiId": 7181725813190193,
+      "Latitude": 53.276381,
+      "Longitude": -114.625969
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522188000000,
+      "ExitTime": 1522190400000,
+      "AlgorithmType": 5,
+      "PoiId": 1082836982453944,
+      "Latitude": -20.401161,
+      "Longitude": 89.81995
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522195200000,
+      "ExitTime": 1522197600000,
+      "AlgorithmType": 6,
+      "PoiId": 5841966422418217,
+      "Latitude": -73.771386,
+      "Longitude": -135.901939
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522202400000,
+      "ExitTime": 1522204800000,
+      "AlgorithmType": 1,
+      "PoiId": 7664236511423649,
+      "Latitude": -6.752903,
+      "Longitude": 160.784132
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522209600000,
+      "ExitTime": 1522212000000,
+      "AlgorithmType": 6,
+      "PoiId": 7608340268593425,
+      "Latitude": 64.504516,
+      "Longitude": -3.344455
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522216800000,
+      "ExitTime": 1522219200000,
+      "AlgorithmType": 5,
+      "PoiId": 3244644105003758,
+      "Latitude": 60.309691,
+      "Longitude": 128.871017
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522224000000,
+      "ExitTime": 1522226400000,
+      "AlgorithmType": 6,
+      "PoiId": 4244174415411382,
+      "Latitude": -39.157561,
+      "Longitude": -64.454115
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522231200000,
+      "ExitTime": 1522233600000,
+      "AlgorithmType": 3,
+      "PoiId": 6151324735733947,
+      "Latitude": -30.745303,
+      "Longitude": -19.478838
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522238400000,
+      "ExitTime": 1522240800000,
+      "AlgorithmType": 5,
+      "PoiId": 3576810266427382,
+      "Latitude": 46.009155,
+      "Longitude": 83.673339
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522245600000,
+      "ExitTime": 1522248000000,
+      "AlgorithmType": 6,
+      "PoiId": 2462196306579168,
+      "Latitude": 47.415719,
+      "Longitude": 74.530449
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522252800000,
+      "ExitTime": 1522255200000,
+      "AlgorithmType": 2,
+      "PoiId": 8774877896323457,
+      "Latitude": -74.404507,
+      "Longitude": 6.955012
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522260000000,
+      "ExitTime": 1522262400000,
+      "AlgorithmType": 3,
+      "PoiId": 955107488943008,
+      "Latitude": 22.37293,
+      "Longitude": 41.274643
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522267200000,
+      "ExitTime": 1522269600000,
+      "AlgorithmType": 3,
+      "PoiId": 4924000310789207,
+      "Latitude": -1.009744,
+      "Longitude": -42.257686
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522274400000,
+      "ExitTime": 1522276800000,
+      "AlgorithmType": 1,
+      "PoiId": 3411308625467718,
+      "Latitude": -37.954416,
+      "Longitude": -87.323023
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522281600000,
+      "ExitTime": 1522284000000,
+      "AlgorithmType": 5,
+      "PoiId": 629474197099302,
+      "Latitude": 54.161985,
+      "Longitude": -114.778909
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522288800000,
+      "ExitTime": 1522291200000,
+      "AlgorithmType": 5,
+      "PoiId": 7790150762541733,
+      "Latitude": 26.762404,
+      "Longitude": 70.061181
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522296000000,
+      "ExitTime": 1522298400000,
+      "AlgorithmType": 1,
+      "PoiId": 6479062034770,
+      "Latitude": 77.96817,
+      "Longitude": -149.392684
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522303200000,
+      "ExitTime": 1522305600000,
+      "AlgorithmType": 3,
+      "PoiId": 4127257281897572,
+      "Latitude": -46.338253,
+      "Longitude": -107.336057
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522310400000,
+      "ExitTime": 1522312800000,
+      "AlgorithmType": 7,
+      "PoiId": 2973174583608822,
+      "Latitude": -78.234845,
+      "Longitude": 72.81692
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522317600000,
+      "ExitTime": 1522320000000,
+      "AlgorithmType": 3,
+      "PoiId": 261157317178974,
+      "Latitude": -40.56115,
+      "Longitude": -151.718376
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522324800000,
+      "ExitTime": 1522327200000,
+      "AlgorithmType": 6,
+      "PoiId": 2300751244061890,
+      "Latitude": 48.581568,
+      "Longitude": -32.723996
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522332000000,
+      "ExitTime": 1522334400000,
+      "AlgorithmType": 2,
+      "PoiId": 7977593421839019,
+      "Latitude": -70.533828,
+      "Longitude": -116.976653
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522339200000,
+      "ExitTime": 1522341600000,
+      "AlgorithmType": 2,
+      "PoiId": 1195580433861634,
+      "Latitude": -27.269026,
+      "Longitude": -157.874741
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522346400000,
+      "ExitTime": 1522348800000,
+      "AlgorithmType": 5,
+      "PoiId": 1929482656032354,
+      "Latitude": -67.947352,
+      "Longitude": 1.163549
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522353600000,
+      "ExitTime": 1522356000000,
+      "AlgorithmType": 1,
+      "PoiId": 6945085524973133,
+      "Latitude": -83.708081,
+      "Longitude": 8.896641
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522360800000,
+      "ExitTime": 1522363200000,
+      "AlgorithmType": 6,
+      "PoiId": 7908627541717391,
+      "Latitude": -52.137738,
+      "Longitude": -131.683468
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522368000000,
+      "ExitTime": 1522370400000,
+      "AlgorithmType": 4,
+      "PoiId": 5050637764159043,
+      "Latitude": 58.39451,
+      "Longitude": 27.309621
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522375200000,
+      "ExitTime": 1522377600000,
+      "AlgorithmType": 6,
+      "PoiId": 5456730623384493,
+      "Latitude": 72.302209,
+      "Longitude": 106.629631
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522382400000,
+      "ExitTime": 1522384800000,
+      "AlgorithmType": 5,
+      "PoiId": 7752887961932491,
+      "Latitude": -40.692267,
+      "Longitude": -178.964653
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522389600000,
+      "ExitTime": 1522392000000,
+      "AlgorithmType": 5,
+      "PoiId": 2373391541362090,
+      "Latitude": -84.359303,
+      "Longitude": 18.355629
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522396800000,
+      "ExitTime": 1522399200000,
+      "AlgorithmType": 6,
+      "PoiId": 6938406970185689,
+      "Latitude": -75.617992,
+      "Longitude": 12.381046
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522404000000,
+      "ExitTime": 1522406400000,
+      "AlgorithmType": 4,
+      "PoiId": 6145134188765365,
+      "Latitude": 77.594125,
+      "Longitude": 92.84252
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522411200000,
+      "ExitTime": 1522413600000,
+      "AlgorithmType": 4,
+      "PoiId": 1690555393487756,
+      "Latitude": -63.151507,
+      "Longitude": 89.963084
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522418400000,
+      "ExitTime": 1522420800000,
+      "AlgorithmType": 5,
+      "PoiId": 8728530191953919,
+      "Latitude": -26.632985,
+      "Longitude": 84.877728
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522425600000,
+      "ExitTime": 1522428000000,
+      "AlgorithmType": 6,
+      "PoiId": 6264605530427449,
+      "Latitude": 62.459294,
+      "Longitude": -78.374185
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522432800000,
+      "ExitTime": 1522435200000,
+      "AlgorithmType": 3,
+      "PoiId": 3997296669149610,
+      "Latitude": 51.926079,
+      "Longitude": 58.592463
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522440000000,
+      "ExitTime": 1522442400000,
+      "AlgorithmType": 5,
+      "PoiId": 8294651336948937,
+      "Latitude": 56.425082,
+      "Longitude": -102.67194
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522447200000,
+      "ExitTime": 1522449600000,
+      "AlgorithmType": 2,
+      "PoiId": 1036288235315826,
+      "Latitude": 25.510064,
+      "Longitude": -146.697698
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522454400000,
+      "ExitTime": 1522456800000,
+      "AlgorithmType": 6,
+      "PoiId": 6541111148696137,
+      "Latitude": 29.772557,
+      "Longitude": -57.766868
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522461600000,
+      "ExitTime": 1522464000000,
+      "AlgorithmType": 4,
+      "PoiId": 843472428972962,
+      "Latitude": 84.887654,
+      "Longitude": 87.463322
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522468800000,
+      "ExitTime": 1522471200000,
+      "AlgorithmType": 2,
+      "PoiId": 4392595692036510,
+      "Latitude": 63.122946,
+      "Longitude": -52.712703
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522476000000,
+      "ExitTime": 1522478400000,
+      "AlgorithmType": 1,
+      "PoiId": 960619124731874,
+      "Latitude": -13.31016,
+      "Longitude": -117.727442
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522483200000,
+      "ExitTime": 1522485600000,
+      "AlgorithmType": 7,
+      "PoiId": 6933612765599953,
+      "Latitude": 46.090211,
+      "Longitude": -140.834132
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522490400000,
+      "ExitTime": 1522492800000,
+      "AlgorithmType": 7,
+      "PoiId": 1957471830713534,
+      "Latitude": 69.985841,
+      "Longitude": -162.772477
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522497600000,
+      "ExitTime": 1522500000000,
+      "AlgorithmType": 6,
+      "PoiId": 3076350290782860,
+      "Latitude": 29.150635,
+      "Longitude": 168.67643
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522504800000,
+      "ExitTime": 1522507200000,
+      "AlgorithmType": 6,
+      "PoiId": 8504417097705359,
+      "Latitude": 50.810172,
+      "Longitude": -62.01381
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522512000000,
+      "ExitTime": 1522514400000,
+      "AlgorithmType": 6,
+      "PoiId": 3160937101041094,
+      "Latitude": -28.238594,
+      "Longitude": 149.953129
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522519200000,
+      "ExitTime": 1522521600000,
+      "AlgorithmType": 6,
+      "PoiId": 148263374810234,
+      "Latitude": 66.724634,
+      "Longitude": 110.892007
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522526400000,
+      "ExitTime": 1522528800000,
+      "AlgorithmType": 1,
+      "PoiId": 240162819723984,
+      "Latitude": 26.867718,
+      "Longitude": 38.574543
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522533600000,
+      "ExitTime": 1522536000000,
+      "AlgorithmType": 6,
+      "PoiId": 3423764969518496,
+      "Latitude": -28.163459,
+      "Longitude": 127.33067
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522540800000,
+      "ExitTime": 1522543200000,
+      "AlgorithmType": 4,
+      "PoiId": 5098470146867661,
+      "Latitude": -71.453814,
+      "Longitude": -38.82248
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522548000000,
+      "ExitTime": 1522550400000,
+      "AlgorithmType": 3,
+      "PoiId": 4979870841784951,
+      "Latitude": 31.51955,
+      "Longitude": 49.037019
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522555200000,
+      "ExitTime": 1522557600000,
+      "AlgorithmType": 4,
+      "PoiId": 3688661408367188,
+      "Latitude": -61.518448,
+      "Longitude": 23.118091
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522562400000,
+      "ExitTime": 1522564800000,
+      "AlgorithmType": 2,
+      "PoiId": 5007792527219275,
+      "Latitude": 43.597343,
+      "Longitude": -35.056546
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522569600000,
+      "ExitTime": 1522572000000,
+      "AlgorithmType": 1,
+      "PoiId": 8968489490510563,
+      "Latitude": 39.238598,
+      "Longitude": -144.241664
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522576800000,
+      "ExitTime": 1522579200000,
+      "AlgorithmType": 6,
+      "PoiId": 8385001834985447,
+      "Latitude": -9.956695,
+      "Longitude": 128.937924
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522584000000,
+      "ExitTime": 1522586400000,
+      "AlgorithmType": 1,
+      "PoiId": 6231227501000011,
+      "Latitude": 64.195589,
+      "Longitude": -24.772226
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522591200000,
+      "ExitTime": 1522593600000,
+      "AlgorithmType": 7,
+      "PoiId": 3707054412972270,
+      "Latitude": 20.729654,
+      "Longitude": 87.711503
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522598400000,
+      "ExitTime": 1522600800000,
+      "AlgorithmType": 3,
+      "PoiId": 5025862510477745,
+      "Latitude": -25.733837,
+      "Longitude": -2.273813
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522605600000,
+      "ExitTime": 1522608000000,
+      "AlgorithmType": 6,
+      "PoiId": 4378845592269376,
+      "Latitude": -82.135256,
+      "Longitude": -39.368035
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522612800000,
+      "ExitTime": 1522615200000,
+      "AlgorithmType": 2,
+      "PoiId": 4642043077173177,
+      "Latitude": 41.475613,
+      "Longitude": -61.517963
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522620000000,
+      "ExitTime": 1522622400000,
+      "AlgorithmType": 3,
+      "PoiId": 6542470425359443,
+      "Latitude": -14.883836,
+      "Longitude": 118.000212
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522627200000,
+      "ExitTime": 1522629600000,
+      "AlgorithmType": 2,
+      "PoiId": 945184773332050,
+      "Latitude": -35.096401,
+      "Longitude": 154.457162
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522634400000,
+      "ExitTime": 1522636800000,
+      "AlgorithmType": 5,
+      "PoiId": 8651974905594493,
+      "Latitude": 59.13684,
+      "Longitude": 72.061786
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522641600000,
+      "ExitTime": 1522644000000,
+      "AlgorithmType": 6,
+      "PoiId": 7126729236132567,
+      "Latitude": -70.409271,
+      "Longitude": -12.202301
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522648800000,
+      "ExitTime": 1522651200000,
+      "AlgorithmType": 6,
+      "PoiId": 1540938623630560,
+      "Latitude": -83.745892,
+      "Longitude": 111.830777
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522656000000,
+      "ExitTime": 1522658400000,
+      "AlgorithmType": 2,
+      "PoiId": 7147264893081363,
+      "Latitude": -74.266856,
+      "Longitude": -6.247233
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522663200000,
+      "ExitTime": 1522665600000,
+      "AlgorithmType": 1,
+      "PoiId": 1260347171117314,
+      "Latitude": -65.461174,
+      "Longitude": -79.273622
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522670400000,
+      "ExitTime": 1522672800000,
+      "AlgorithmType": 7,
+      "PoiId": 4420801319777330,
+      "Latitude": -36.281732,
+      "Longitude": 60.469982
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522677600000,
+      "ExitTime": 1522680000000,
+      "AlgorithmType": 7,
+      "PoiId": 12212137682600,
+      "Latitude": -19.185013,
+      "Longitude": 158.785337
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522684800000,
+      "ExitTime": 1522687200000,
+      "AlgorithmType": 6,
+      "PoiId": 887582560539894,
+      "Latitude": 33.923929,
+      "Longitude": -155.791565
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522692000000,
+      "ExitTime": 1522694400000,
+      "AlgorithmType": 4,
+      "PoiId": 8653428864375217,
+      "Latitude": 88.084744,
+      "Longitude": 141.976796
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522699200000,
+      "ExitTime": 1522701600000,
+      "AlgorithmType": 2,
+      "PoiId": 1375310582613872,
+      "Latitude": 34.664305,
+      "Longitude": 160.383546
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522706400000,
+      "ExitTime": 1522708800000,
+      "AlgorithmType": 3,
+      "PoiId": 561686374623838,
+      "Latitude": -30.56543,
+      "Longitude": -117.8182
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522713600000,
+      "ExitTime": 1522716000000,
+      "AlgorithmType": 5,
+      "PoiId": 6090546663203931,
+      "Latitude": 23.311581,
+      "Longitude": -30.65741
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522720800000,
+      "ExitTime": 1522723200000,
+      "AlgorithmType": 7,
+      "PoiId": 3924344733062714,
+      "Latitude": -33.46809,
+      "Longitude": -74.313955
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522728000000,
+      "ExitTime": 1522730400000,
+      "AlgorithmType": 6,
+      "PoiId": 8469474644691799,
+      "Latitude": 36.885855,
+      "Longitude": -158.152559
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522735200000,
+      "ExitTime": 1522737600000,
+      "AlgorithmType": 5,
+      "PoiId": 4129189230481430,
+      "Latitude": 14.251417,
+      "Longitude": 7.46699
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522742400000,
+      "ExitTime": 1522744800000,
+      "AlgorithmType": 6,
+      "PoiId": 7716031373635007,
+      "Latitude": -68.97548,
+      "Longitude": 175.269172
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522749600000,
+      "ExitTime": 1522752000000,
+      "AlgorithmType": 2,
+      "PoiId": 3698726672172820,
+      "Latitude": -28.366919,
+      "Longitude": -71.360562
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522756800000,
+      "ExitTime": 1522759200000,
+      "AlgorithmType": 1,
+      "PoiId": 2462293137755816,
+      "Latitude": -42.2461,
+      "Longitude": -115.264802
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522764000000,
+      "ExitTime": 1522766400000,
+      "AlgorithmType": 5,
+      "PoiId": 3848462233496184,
+      "Latitude": 34.83713,
+      "Longitude": -175.825978
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522771200000,
+      "ExitTime": 1522773600000,
+      "AlgorithmType": 4,
+      "PoiId": 1528822156813590,
+      "Latitude": 67.210327,
+      "Longitude": 70.602479
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522778400000,
+      "ExitTime": 1522780800000,
+      "AlgorithmType": 6,
+      "PoiId": 6546556018297665,
+      "Latitude": 31.293178,
+      "Longitude": 61.899281
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522785600000,
+      "ExitTime": 1522788000000,
+      "AlgorithmType": 7,
+      "PoiId": 8948076449550961,
+      "Latitude": -50.207953,
+      "Longitude": 154.645139
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522792800000,
+      "ExitTime": 1522795200000,
+      "AlgorithmType": 1,
+      "PoiId": 5776947378371995,
+      "Latitude": 45.79561,
+      "Longitude": 15.123477
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522800000000,
+      "ExitTime": 1522802400000,
+      "AlgorithmType": 3,
+      "PoiId": 3367514512575034,
+      "Latitude": 20.886912,
+      "Longitude": -89.179846
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522807200000,
+      "ExitTime": 1522809600000,
+      "AlgorithmType": 1,
+      "PoiId": 559873316185954,
+      "Latitude": 53.687058,
+      "Longitude": 46.514226
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522814400000,
+      "ExitTime": 1522816800000,
+      "AlgorithmType": 2,
+      "PoiId": 8661007768620107,
+      "Latitude": -55.08653,
+      "Longitude": 140.626016
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522821600000,
+      "ExitTime": 1522824000000,
+      "AlgorithmType": 1,
+      "PoiId": 6921890996861363,
+      "Latitude": -32.505496,
+      "Longitude": -19.539269
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522828800000,
+      "ExitTime": 1522831200000,
+      "AlgorithmType": 2,
+      "PoiId": 7748268208742011,
+      "Latitude": 61.32593,
+      "Longitude": -83.847001
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522836000000,
+      "ExitTime": 1522838400000,
+      "AlgorithmType": 4,
+      "PoiId": 1194480418011022,
+      "Latitude": -68.109709,
+      "Longitude": 16.440554
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522843200000,
+      "ExitTime": 1522845600000,
+      "AlgorithmType": 2,
+      "PoiId": 852206879363348,
+      "Latitude": 54.621381,
+      "Longitude": -68.857447
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522850400000,
+      "ExitTime": 1522852800000,
+      "AlgorithmType": 6,
+      "PoiId": 2209950338903882,
+      "Latitude": 57.110465,
+      "Longitude": -163.761012
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522857600000,
+      "ExitTime": 1522860000000,
+      "AlgorithmType": 4,
+      "PoiId": 6213471688462867,
+      "Latitude": -73.492183,
+      "Longitude": 141.840557
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522864800000,
+      "ExitTime": 1522867200000,
+      "AlgorithmType": 2,
+      "PoiId": 1710348359727382,
+      "Latitude": -47.414908,
+      "Longitude": -108.959339
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522872000000,
+      "ExitTime": 1522874400000,
+      "AlgorithmType": 3,
+      "PoiId": 4616833447521147,
+      "Latitude": 11.926229,
+      "Longitude": 166.898588
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522879200000,
+      "ExitTime": 1522881600000,
+      "AlgorithmType": 5,
+      "PoiId": 8620806670450583,
+      "Latitude": -55.823166,
+      "Longitude": 17.985352
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522886400000,
+      "ExitTime": 1522888800000,
+      "AlgorithmType": 3,
+      "PoiId": 4059564638384150,
+      "Latitude": 72.242934,
+      "Longitude": -45.737167
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522893600000,
+      "ExitTime": 1522896000000,
+      "AlgorithmType": 1,
+      "PoiId": 7342706031730507,
+      "Latitude": -87.657185,
+      "Longitude": -98.363483
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522900800000,
+      "ExitTime": 1522903200000,
+      "AlgorithmType": 6,
+      "PoiId": 546969964709112,
+      "Latitude": -47.940155,
+      "Longitude": -149.621897
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522908000000,
+      "ExitTime": 1522910400000,
+      "AlgorithmType": 3,
+      "PoiId": 7618922903085563,
+      "Latitude": -78.282146,
+      "Longitude": 58.931895
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522915200000,
+      "ExitTime": 1522917600000,
+      "AlgorithmType": 5,
+      "PoiId": 5345007703149529,
+      "Latitude": 30.240945,
+      "Longitude": 49.235763
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522922400000,
+      "ExitTime": 1522924800000,
+      "AlgorithmType": 5,
+      "PoiId": 8224385978526545,
+      "Latitude": 7.547912,
+      "Longitude": -154.338655
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522929600000,
+      "ExitTime": 1522932000000,
+      "AlgorithmType": 3,
+      "PoiId": 5149801914923481,
+      "Latitude": 72.325866,
+      "Longitude": -109.696592
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522936800000,
+      "ExitTime": 1522939200000,
+      "AlgorithmType": 7,
+      "PoiId": 7415113506519083,
+      "Latitude": 19.734925,
+      "Longitude": -108.019664
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522944000000,
+      "ExitTime": 1522946400000,
+      "AlgorithmType": 1,
+      "PoiId": 1695312392390806,
+      "Latitude": 25.859346,
+      "Longitude": -160.111028
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522951200000,
+      "ExitTime": 1522953600000,
+      "AlgorithmType": 3,
+      "PoiId": 4061131869326558,
+      "Latitude": 2.978164,
+      "Longitude": -161.867622
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522958400000,
+      "ExitTime": 1522960800000,
+      "AlgorithmType": 3,
+      "PoiId": 4195435034505788,
+      "Latitude": -49.845101,
+      "Longitude": -85.524037
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522965600000,
+      "ExitTime": 1522968000000,
+      "AlgorithmType": 6,
+      "PoiId": 735320298799262,
+      "Latitude": -42.211575,
+      "Longitude": -175.962601
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522972800000,
+      "ExitTime": 1522975200000,
+      "AlgorithmType": 5,
+      "PoiId": 7842025445984557,
+      "Latitude": 51.218869,
+      "Longitude": -67.40202
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522980000000,
+      "ExitTime": 1522982400000,
+      "AlgorithmType": 7,
+      "PoiId": 3842899290665388,
+      "Latitude": -70.483643,
+      "Longitude": 106.080727
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522987200000,
+      "ExitTime": 1522989600000,
+      "AlgorithmType": 4,
+      "PoiId": 109142629278466,
+      "Latitude": 81.07759,
+      "Longitude": -52.765459
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1522994400000,
+      "ExitTime": 1522996800000,
+      "AlgorithmType": 1,
+      "PoiId": 4564997841757911,
+      "Latitude": -31.595754,
+      "Longitude": -105.345598
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523001600000,
+      "ExitTime": 1523004000000,
+      "AlgorithmType": 4,
+      "PoiId": 1628925198043954,
+      "Latitude": -60.918761,
+      "Longitude": 133.323613
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523008800000,
+      "ExitTime": 1523011200000,
+      "AlgorithmType": 7,
+      "PoiId": 7135191574646869,
+      "Latitude": 82.997439,
+      "Longitude": 39.815718
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523016000000,
+      "ExitTime": 1523018400000,
+      "AlgorithmType": 3,
+      "PoiId": 3099661488709532,
+      "Latitude": -10.194981,
+      "Longitude": -21.188091
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523023200000,
+      "ExitTime": 1523025600000,
+      "AlgorithmType": 4,
+      "PoiId": 1530891547297914,
+      "Latitude": -68.499056,
+      "Longitude": -115.421667
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523030400000,
+      "ExitTime": 1523032800000,
+      "AlgorithmType": 3,
+      "PoiId": 4347725909345590,
+      "Latitude": 63.808535,
+      "Longitude": -125.864904
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523037600000,
+      "ExitTime": 1523040000000,
+      "AlgorithmType": 7,
+      "PoiId": 7387113878227975,
+      "Latitude": 42.706689,
+      "Longitude": -30.463136
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523044800000,
+      "ExitTime": 1523047200000,
+      "AlgorithmType": 5,
+      "PoiId": 8007175063455975,
+      "Latitude": -8.532429,
+      "Longitude": 40.467113
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523052000000,
+      "ExitTime": 1523054400000,
+      "AlgorithmType": 4,
+      "PoiId": 1811683370369102,
+      "Latitude": -44.369692,
+      "Longitude": 117.449715
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523059200000,
+      "ExitTime": 1523061600000,
+      "AlgorithmType": 7,
+      "PoiId": 5416755069635551,
+      "Latitude": 57.590186,
+      "Longitude": 169.400735
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523066400000,
+      "ExitTime": 1523068800000,
+      "AlgorithmType": 4,
+      "PoiId": 3885992126510560,
+      "Latitude": -40.009065,
+      "Longitude": -40.909929
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523073600000,
+      "ExitTime": 1523076000000,
+      "AlgorithmType": 2,
+      "PoiId": 6376077142643011,
+      "Latitude": -54.308087,
+      "Longitude": -31.069508
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523080800000,
+      "ExitTime": 1523083200000,
+      "AlgorithmType": 6,
+      "PoiId": 7553086288795347,
+      "Latitude": 51.088219,
+      "Longitude": 68.329414
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523088000000,
+      "ExitTime": 1523090400000,
+      "AlgorithmType": 5,
+      "PoiId": 5279994708263087,
+      "Latitude": -21.931493,
+      "Longitude": -40.699746
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523095200000,
+      "ExitTime": 1523097600000,
+      "AlgorithmType": 1,
+      "PoiId": 5525604194509105,
+      "Latitude": 76.440965,
+      "Longitude": 85.579646
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523102400000,
+      "ExitTime": 1523104800000,
+      "AlgorithmType": 5,
+      "PoiId": 3288647161380208,
+      "Latitude": 76.657463,
+      "Longitude": 10.073646
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523109600000,
+      "ExitTime": 1523112000000,
+      "AlgorithmType": 5,
+      "PoiId": 1097561571974394,
+      "Latitude": -76.749745,
+      "Longitude": -133.794693
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523116800000,
+      "ExitTime": 1523119200000,
+      "AlgorithmType": 1,
+      "PoiId": 190519150634854,
+      "Latitude": -68.87823,
+      "Longitude": -24.394389
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523124000000,
+      "ExitTime": 1523126400000,
+      "AlgorithmType": 2,
+      "PoiId": 8192183895097225,
+      "Latitude": -87.656758,
+      "Longitude": 117.434376
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523131200000,
+      "ExitTime": 1523133600000,
+      "AlgorithmType": 4,
+      "PoiId": 2211153603429924,
+      "Latitude": 78.07926,
+      "Longitude": 107.66937
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523138400000,
+      "ExitTime": 1523140800000,
+      "AlgorithmType": 5,
+      "PoiId": 5327973161310879,
+      "Latitude": -59.911114,
+      "Longitude": -124.977787
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523145600000,
+      "ExitTime": 1523148000000,
+      "AlgorithmType": 2,
+      "PoiId": 7109147389017365,
+      "Latitude": -5.274649,
+      "Longitude": -107.53223
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523152800000,
+      "ExitTime": 1523155200000,
+      "AlgorithmType": 2,
+      "PoiId": 2114570517329464,
+      "Latitude": 71.675283,
+      "Longitude": 132.610605
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523160000000,
+      "ExitTime": 1523162400000,
+      "AlgorithmType": 4,
+      "PoiId": 1864678803511882,
+      "Latitude": -14.542684,
+      "Longitude": -168.465896
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523167200000,
+      "ExitTime": 1523169600000,
+      "AlgorithmType": 6,
+      "PoiId": 60273067072148,
+      "Latitude": 72.315516,
+      "Longitude": 90.373077
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523174400000,
+      "ExitTime": 1523176800000,
+      "AlgorithmType": 4,
+      "PoiId": 2825596159971502,
+      "Latitude": 71.617727,
+      "Longitude": 76.552931
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523181600000,
+      "ExitTime": 1523184000000,
+      "AlgorithmType": 2,
+      "PoiId": 8027238250087811,
+      "Latitude": -82.927906,
+      "Longitude": 117.814407
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523188800000,
+      "ExitTime": 1523191200000,
+      "AlgorithmType": 3,
+      "PoiId": 2112424909707650,
+      "Latitude": -43.996329,
+      "Longitude": 170.904868
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523196000000,
+      "ExitTime": 1523198400000,
+      "AlgorithmType": 4,
+      "PoiId": 8592659277293733,
+      "Latitude": -9.036749,
+      "Longitude": 85.246857
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523203200000,
+      "ExitTime": 1523205600000,
+      "AlgorithmType": 3,
+      "PoiId": 8402217386975119,
+      "Latitude": -8.463118,
+      "Longitude": 159.698014
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523210400000,
+      "ExitTime": 1523212800000,
+      "AlgorithmType": 4,
+      "PoiId": 5514431268012051,
+      "Latitude": -30.501865,
+      "Longitude": -118.610444
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523217600000,
+      "ExitTime": 1523220000000,
+      "AlgorithmType": 1,
+      "PoiId": 6130856481450733,
+      "Latitude": 60.393716,
+      "Longitude": 49.903737
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523224800000,
+      "ExitTime": 1523227200000,
+      "AlgorithmType": 5,
+      "PoiId": 5398351647362163,
+      "Latitude": 58.726856,
+      "Longitude": 175.955929
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523232000000,
+      "ExitTime": 1523234400000,
+      "AlgorithmType": 7,
+      "PoiId": 4606676061988875,
+      "Latitude": -3.973163,
+      "Longitude": 72.793919
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523239200000,
+      "ExitTime": 1523241600000,
+      "AlgorithmType": 4,
+      "PoiId": 7424783865527997,
+      "Latitude": 28.370737,
+      "Longitude": -10.621285
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523246400000,
+      "ExitTime": 1523248800000,
+      "AlgorithmType": 3,
+      "PoiId": 1973383178744012,
+      "Latitude": -38.022749,
+      "Longitude": 102.614525
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523253600000,
+      "ExitTime": 1523256000000,
+      "AlgorithmType": 3,
+      "PoiId": 5960337872160245,
+      "Latitude": 59.590454,
+      "Longitude": -63.550245
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523260800000,
+      "ExitTime": 1523263200000,
+      "AlgorithmType": 6,
+      "PoiId": 1879718789629868,
+      "Latitude": -28.277048,
+      "Longitude": -140.574623
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523268000000,
+      "ExitTime": 1523270400000,
+      "AlgorithmType": 4,
+      "PoiId": 7973603017884041,
+      "Latitude": 56.451226,
+      "Longitude": 48.26503
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523275200000,
+      "ExitTime": 1523277600000,
+      "AlgorithmType": 3,
+      "PoiId": 1893770165422374,
+      "Latitude": 61.947031,
+      "Longitude": 133.067362
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523282400000,
+      "ExitTime": 1523284800000,
+      "AlgorithmType": 1,
+      "PoiId": 7482113215627197,
+      "Latitude": -36.399299,
+      "Longitude": -6.896105
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523289600000,
+      "ExitTime": 1523292000000,
+      "AlgorithmType": 6,
+      "PoiId": 4031730595321990,
+      "Latitude": -58.56201,
+      "Longitude": 49.000793
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523296800000,
+      "ExitTime": 1523299200000,
+      "AlgorithmType": 3,
+      "PoiId": 7844761646643171,
+      "Latitude": -18.992342,
+      "Longitude": -48.80269
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523304000000,
+      "ExitTime": 1523306400000,
+      "AlgorithmType": 3,
+      "PoiId": 8529865055895083,
+      "Latitude": -34.689015,
+      "Longitude": -44.754266
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523311200000,
+      "ExitTime": 1523313600000,
+      "AlgorithmType": 6,
+      "PoiId": 6853848366748209,
+      "Latitude": -16.111837,
+      "Longitude": 2.842641
+    }
+  ],
+  [
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523318400000,
+      "ExitTime": 1523320800000,
+      "AlgorithmType": 6,
+      "PoiId": 8401509833977167,
+      "Latitude": 37.317562,
+      "Longitude": 10.925142
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523325600000,
+      "ExitTime": 1523328000000,
+      "AlgorithmType": 6,
+      "PoiId": 3525892344509186,
+      "Latitude": -52.107912,
+      "Longitude": -140.182058
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523332800000,
+      "ExitTime": 1523335200000,
+      "AlgorithmType": 4,
+      "PoiId": 967980058494490,
+      "Latitude": 72.145302,
+      "Longitude": 74.900886
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523340000000,
+      "ExitTime": 1523342400000,
+      "AlgorithmType": 3,
+      "PoiId": 2921311369900192,
+      "Latitude": -20.118292,
+      "Longitude": 20.837599
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523347200000,
+      "ExitTime": 1523349600000,
+      "AlgorithmType": 1,
+      "PoiId": 8887367370167047,
+      "Latitude": -2.775325,
+      "Longitude": 49.924445
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523354400000,
+      "ExitTime": 1523356800000,
+      "AlgorithmType": 3,
+      "PoiId": 5674643802185857,
+      "Latitude": -10.619959,
+      "Longitude": -141.610581
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523361600000,
+      "ExitTime": 1523364000000,
+      "AlgorithmType": 7,
+      "PoiId": 6303892764146241,
+      "Latitude": 86.960088,
+      "Longitude": -83.198519
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523368800000,
+      "ExitTime": 1523371200000,
+      "AlgorithmType": 6,
+      "PoiId": 618377284116486,
+      "Latitude": -33.24098,
+      "Longitude": -63.42716
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523376000000,
+      "ExitTime": 1523378400000,
+      "AlgorithmType": 4,
+      "PoiId": 1242014345360046,
+      "Latitude": 31.712379,
+      "Longitude": 155.663711
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523383200000,
+      "ExitTime": 1523385600000,
+      "AlgorithmType": 6,
+      "PoiId": 5722427865872583,
+      "Latitude": 6.49137,
+      "Longitude": -11.076952
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523390400000,
+      "ExitTime": 1523392800000,
+      "AlgorithmType": 2,
+      "PoiId": 7696840208856565,
+      "Latitude": 55.731706,
+      "Longitude": -47.6579
+    },
+    {
+      "userId": "ddf14b35-df07-426a-b04a-ecd9c9791f79",
+      "DataVer": 1,
+      "EnterTime": 1523397600000,
+      "ExitTime": 1523400000000,
+      "AlgorithmType": 2,
+      "PoiId": 6638105806843357,
+      "Latitude": 58.335153,
+      "Longitude": 124.040913
+    }
+  ]
+]

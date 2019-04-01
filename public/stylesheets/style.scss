@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.clients {
+  display: flex;
+}
+
+.client {
+  margin-right: 20px;
+}
+
+.item {
+  .item__info {
+    &-count {
+      span {
+        padding-right: 10px;
+      }
+    }
+  }
+
+  .item__body {
+    display: flex;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+
+    .item__visit,
+    .item__activity {
+      height: 350px;
+      overflow: auto;
+      padding: 10px;
+      white-space: pre-wrap;
+      margin: 20px 0;
+    }
+  }
+}
